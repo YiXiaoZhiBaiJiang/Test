@@ -1,0 +1,7 @@
+#include<stdio.h>
+using namespace std;
+int main()
+{
+	cout<<endl;
+	cout<<"西班牙是冠军"<<endl;
+}
